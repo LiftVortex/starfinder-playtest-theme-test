@@ -1,0 +1,31 @@
+{
+  "id": "starfinder-playtest-theme-test",
+  "title": "SF2e Playtest Theme Test",
+  "url": "https://github.com/LiftVortex/starfinder-playtest-theme-test",
+  "manifest": "https://raw.githubusercontent.com/LiftVortex/starfinder-playtest-theme-test/master/module.json",
+  "description": "A style sheet for the SF2e module to retheme the standard PF2e character sheet",
+  "download": "https://github.com/LiftVortex/starfinder-playtest-theme-test/archive/refs/heads/main.zip",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [{
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+        "compatibility": {
+            "minimum": "6.2"
+        }
+    }]
+},
+  "authors": [{
+    "name": "Nick",
+    "discord": "liftvortex"
+  }],
+  "systems": ["pf2e"],
+  "styles": ["styles/sf2e-stylesheet.css"],
+  "scripts": ["scripts/sf2e-logo-replacer.js"],
+  "packs": []
+}
