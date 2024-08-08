@@ -2,9 +2,9 @@
   "id": "starfinder-playtest-theme",
   "title": "SF2e Playtest Theme",
   "url": "https://github.com/LiftVortex/starfinder-playtest-theme",
-  "manifest": "https://liftvortex.github.io/starfinder-playtest-theme/module.json",
+  "manifest": "https://github.com/LiftVortex/starfinder-playtest-theme/releases/latest/download/module.json",
   "description": "A style sheet for the SF2e module to retheme the standard PF2e character sheet",
-  "download": "https://github.com/LiftVortex/starfinder-playtest-theme/archive/refs/heads/main.zip",
+  "download": "https://github.com/LiftVortex/starfinder-playtest-theme/releases/latest/download/starfinder-playtest-theme.zip",
   "version": "0.0.1",
   "compatibility": {
     "minimum": "12",

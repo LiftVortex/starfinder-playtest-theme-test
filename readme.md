@@ -16,7 +16,7 @@ To install this module:
 
 1. Open FoundryVTT and navigate to the **Add-on Modules** tab.
 2. Click **Install Module**.
-3. In the **Manifest URL** field, enter the URL to the module manifest: `https://liftvortex.github.io/starfinder-playtest-theme/module.json`
+3. In the **Manifest URL** field, enter the URL to the module manifest: `https://github.com/LiftVortex/starfinder-playtest-theme/releases/latest/download/module.json`
 4. Click **Install**.
 5. Enable the module in the **Game Settings** > **Manage Modules** menu.
 
