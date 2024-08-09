@@ -26,6 +26,6 @@
   }],
   "systems": ["pf2e"],
   "styles": ["styles/sf2e-stylesheet.css"],
-  "scripts": ["scripts/sf2e-logo-replacer.js"],
+  "scripts": ["scripts/sf2e-Overrides.js"],
   "packs": []
 }
